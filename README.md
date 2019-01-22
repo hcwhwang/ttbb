@@ -7,4 +7,5 @@
  - Other many macros for analysis
 
 # Results
-[5csv_3rd_afterfitAll.pdf](https://github.com/hcwhwang/ttbb/files/2779709/5csv_3rd_afterfitAll.pdf)
+![5csv_3rd_afterfitall](https://user-images.githubusercontent.com/5095458/51518777-5c8ec700-1e62-11e9-9b11-eb5ae0009667.png)
+
